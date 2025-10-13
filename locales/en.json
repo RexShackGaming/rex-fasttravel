@@ -2,5 +2,16 @@
     "cl_lang_1" : "Open ",
     "cl_lang_2" : "Fast Travel Menu",
     "sv_lang_1" : "Not Enough Cash!",
-    "sv_lang_2" : "not enough cash for this trip you need $"
+    "sv_lang_2" : "not enough cash for this trip you need $",
+    "cl_distance_short" : "Short Distance",
+    "cl_distance_medium" : "Medium Distance",
+    "cl_distance_long" : "Long Distance",
+    "cl_distance_very_long" : "Very Long Distance",
+    "cl_distance_extreme" : "Extreme Distance",
+    "sv_price_updated" : "Price Updated",
+    "sv_price_recalculated" : "Travel cost recalculated based on distance",
+    "sv_time_updated" : "Travel Time Updated",
+    "sv_time_recalculated" : "Travel time recalculated based on distance",
+    "cl_travel_time" : "Travel Time",
+    "cl_distance_and_time" : "Distance & Time"
 }
