@@ -275,9 +275,8 @@ Config.WaitTime.tiers = {
 
 ### Menu Not Showing
 1. **Check console** for error messages
-2. **Test manually** with `/testfasttravel` command
-3. **Verify dependencies** are running
-4. **Check keybind** in RSG-Core config
+2. **Verify dependencies** are running
+3. **Check keybind** in RSG-Core config
 
 ### Common Issues
 
@@ -312,9 +311,6 @@ resource rsg-core
 ## 📄 License
 
 This resource is provided by RexShackGaming. Please respect the license terms and support the developer.
-
-**Version**: 2.1.0+  
-**Last Updated**: 2025
 
 ---
 
