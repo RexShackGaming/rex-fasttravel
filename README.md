@@ -216,9 +216,6 @@ resource rex-fasttravel
 
 # Restart resource
 restart rex-fasttravel
-```
-
----
 
 ## 🛠️ Customization
 
