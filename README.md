@@ -1,10 +1,8 @@
+<img width="2948" height="497" alt="rex_scripts" src="https://github.com/user-attachments/assets/bccc94d2-0702-48aa-9868-08b05cc2a8bd" />
+
 # Rex Fast Travel 🚀
 
 **Advanced distance-based fast travel system for RedM/RSG Framework with dynamic pricing and travel times.**
-
-[![Discord](https://img.shields.io/discord/server-id?label=Discord&logo=discord)](https://discord.gg/YUV7ebzkqs)
-[![YouTube](https://img.shields.io/badge/YouTube-RexShack-red?logo=youtube)](https://www.youtube.com/@rexshack/videos)
-[![Tebex](https://img.shields.io/badge/Store-Tebex-orange)](https://rexshackgaming.tebex.io/)
 
 ---
 
